@@ -1,26 +1,24 @@
-import json
+from .strings import DOTJSON, UTF_8
 from pathlib import Path
-
-UTF_8 = 'UTF-8'
-DOTJSON = '.json'
+import json
 
 class JsonFile(object):
 
     def __init__(self, path):
 
         self.path = Path(path)
-        self._validate_path(self.path)
+        self._validate_path()
 
 
-    def _validate_path(self, path):
+    def _validate_path(self):
 
-        if not (path.exists()):
-            raise FileNotFoundError('"{}" does not exist.'.format(path))
+        if not (self.path.exists()):
+            raise FileNotFoundError('"{}" does not exist.'.format(self.path))
 
-        if not (path.is_file()):
-            raise ValueError('"{}" is not a file.'.format(path))
+        if not (self.path.is_file()):
+            raise ValueError('"{}" is not a file.'.format(self.path))
 
-        if path.suffix != DOTJSON:
+        if self.path.suffix != DOTJSON:
             raise ValueError('File is not of type {}'.format(DOTJSON))
 
 
