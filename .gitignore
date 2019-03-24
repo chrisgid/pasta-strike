@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/pasta-strike.pyproj
+/pasta-strike.sln
+/split/test.json
+/py/__pycache__
