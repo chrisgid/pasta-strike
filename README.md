@@ -27,4 +27,8 @@ All of your favourite copypastas in a CS:GO config
 
 ## Adding New Pastas
 
-* Keep strings to a maximum length of **127** as this is the maximum amount of characters you can type into CS:GO's chat. Use this to check string lengths: http://www.charactercountonline.com/
+Keep strings to a maximum length of **127** as this is the maximum amount of characters you can type into CS:GO's chat. Use this to check string lengths: http://www.charactercountonline.com/
+
+Most emojis do not appear in chat so it is recommended to remove them, however here is a list of the ones that do work:
+
+ღ • ⁂ € ™ ↑ → ↓ ⇝ √ ∞ ░ ▲ ▶ ◀ ● ☀ ☁ ☂ ☃ ☄ ★ ☆ ☉ ☐ ☑ ☎ ☚ ☛ ☜ ☝ ☞ ☟ ☠ ☢ ☣ ☪ ☮ ☯ ☸ ☹ ☺ ☻ ☼ ☽ ☾ ♔ ♕ ♖ ♗ ♘ ♚ ♛ ♜ ♝ ♞ ♟ ♡ ♨ ♩ ♪ ♫ ♬ ✈ ✉ ✍ ✎ ✓ ✔ ✘ ✚ ✝ ✞ ✟ ✠ ✡ ✦ ✧ ✩ ✪ ✮ ✯ ✹ ✿ ❀ ❁ ❂ ❄ ❅ ❆ ❝ ❞ ❣ ❤ ❥ ❦ ❧ ➤ ツ ㋡ 卍 웃 Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ
