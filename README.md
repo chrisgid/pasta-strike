@@ -2,11 +2,11 @@
 All of your favourite copypastas in a CS:GO config
 
 ## Installing Pastas
-1. Add **pasta-strike.cfg** to the cfg folder inside the install directory of CS:GO, usually located here:
+1. [Download **pasta-strike.cfg**](https://cdn.jsdelivr.net/gh/chrisgid/pasta-strike@latest/pasta-strike.cfg) and add it to the cfg folder inside the install directory of CS:GO, usually located here:
 
     `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
-2. Add **autoexec.cfg** to the same directory
+2. [Download **autoexec.cfg**](https://cdn.jsdelivr.net/gh/chrisgid/pasta-strike@latest/autoexec.cfg) and add it to the same directory
 
     (If you already have an autoexec.cfg file, open it in a text editor and add `exec pasta-strike.cfg` to the end)
 
