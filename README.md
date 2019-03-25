@@ -29,7 +29,7 @@ All of your favourite copypastas in a CS:GO config
 
 The maximum amount of characters you can type into CS:GO's chat is 127 \***if**\* they are from the standard (not extended) [ASCII Character Set](https://ascii.cl/). 
 
-The chat in CS:GO takes a maximum of 127 bytes, so if a character is not in the standard ASCII set (like an emoji ☜) it can take up to 4 bytes of information.
+The chat in CS:GO takes a maximum of 127 bytes with standard ASCII characters taking up 1 byte. If a character is not in the standard ASCII set (like an emoji ☜) it can take up to 4 bytes of information.
 
 You can check how many bytes there are in a string of characters here: https://mothereff.in/byte-counter. If you paste a copypasta with emojis into the counter you will see the character and byte counts differ.
 
