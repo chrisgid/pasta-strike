@@ -27,6 +27,8 @@ All of your favourite copypastas in a CS:GO config
 
 ## Adding New Pastas
 
+> Please read below before clicking [**here**](https://github.com/chrisgid/pasta-strike/issues/new?assignees=&labels=add+copypasta+request&template=add-copypasta-request.md&title=) to request a new copypasta to be added
+
 The maximum amount of characters you can type into CS:GO's chat is 127 \***if**\* they are from the standard (not extended) [ASCII Character Set](https://ascii.cl/). 
 
 The chat in CS:GO takes a maximum of 127 bytes with standard ASCII characters taking up 1 byte. If a character is not in the standard ASCII set (like an emoji ☜) it can take up to 4 bytes of information.
