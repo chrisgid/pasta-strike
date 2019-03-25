@@ -34,7 +34,7 @@ class JsonFile(object):
         json_dictionary = None
 
         with self.path.open(mode='r', encoding=UTF_8) as file:
-            json_dictionary = json.loads(file.read(), encoding=UTF_8)
+            json_dictionary = json.loads(file.read())
 
         if not isinstance(json_dictionary, dict):
             raise ValueError('JSON is incorrectly formatted')
