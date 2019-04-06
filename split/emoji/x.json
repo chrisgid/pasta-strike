@@ -1,7 +1,5 @@
 {
-    "group" : "emoji",
-    "subgroup" : "x",
-    "binds" : [
-
-    ]
+    "group": "emoji",
+    "subgroup": "x",
+    "binds": []
 }

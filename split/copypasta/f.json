@@ -1,20 +1,20 @@
 {
-    "group" : "copypasta",
-    "subgroup" : "f",
-    "binds" : [
-		{
-			"alias" : "first",
-			"values" : [
-				"Hey guys. This is my very first copy pasta and I am really nervous about pasting it",
-				"because if it does not get copy pasta then I will have much embarrassment.",
-				"I've have thinking about it for a couple of nights now, but here it is!."
-			]
-		},
-		{
-			"alias" : "fuck",
-			"values" : [
-				"Ƒ ư ɕ ƙ"
-			]
-		}
+    "group": "copypasta",
+    "subgroup": "f",
+    "binds": [
+        {
+            "alias": "first",
+            "values": [
+                "Hey guys. This is my very first copy pasta and I am really nervous about pasting it",
+                "because if it does not get copy pasta then I will have much embarrassment.",
+                "I've have thinking about it for a couple of nights now, but here it is!."
+            ]
+        },
+        {
+            "alias": "fuck",
+            "values": [
+                "Ƒ ư ɕ ƙ"
+            ]
+        }
     ]
 }

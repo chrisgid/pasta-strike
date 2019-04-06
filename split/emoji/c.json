@@ -1,18 +1,18 @@
 {
-    "group" : "emoji",
-    "subgroup" : "c",
-    "binds" : [
-		{
-			"alias" : "cheerfulcat",
-			"values" : [
-				"(≧∇≦)/"
-			]
-		},
-		{
-			"alias" : "confused",
-			"values" : [
-				"(⊙.☉)7"
-			]
-		}
+    "group": "emoji",
+    "subgroup": "c",
+    "binds": [
+        {
+            "alias": "cheerfulcat",
+            "values": [
+                "(≧∇≦)/"
+            ]
+        },
+        {
+            "alias": "confused",
+            "values": [
+                "(⊙.☉)7"
+            ]
+        }
     ]
 }

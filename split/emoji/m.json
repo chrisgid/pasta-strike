@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "m",
-    "binds" : [
-
+    "group": "emoji",
+    "subgroup": "m",
+    "binds": [
+        {
+            "alias" : "meow",
+            "values" : [
+                "ฅ^•ﻌ•^ฅ"
+            ]
+        }
     ]
 }

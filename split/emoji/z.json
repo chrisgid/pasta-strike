@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "z",
-    "binds" : [
-
+    "group": "emoji",
+    "subgroup": "z",
+    "binds": [
+        {
+            "alias" : "zombie",
+            "values" : [
+                "(¬º-°)¬"
+            ]
+        }
     ]
 }

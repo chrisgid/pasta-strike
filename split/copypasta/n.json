@@ -1,16 +1,16 @@
 {
-    "group" : "copypasta",
-    "subgroup" : "n",
-    "binds" : [
-        {
-            "alias" : "na",
-            "values" : [
-                "EleGiggle MY BELLY IS HUGE EleGiggle MY BRAIN HAS DELAY EleGiggle YOU GUESSED IT RIGHT EleGiggle I'M FROM NA. EleGiggle"
-            ]
-        },
+	"group": "copypasta",
+	"subgroup": "n",
+	"binds": [
 		{
-            "alias" : "navyseal",
-            "values" : [
+			"alias": "na",
+			"values": [
+				"EleGiggle MY BELLY IS HUGE EleGiggle MY BRAIN HAS DELAY EleGiggle YOU GUESSED IT RIGHT EleGiggle I'M FROM NA. EleGiggle"
+			]
+		},
+		{
+			"alias": "navyseal",
+			"values": [
 				"wat the fuck did you just fucking say about me u little bitch?",
 				"ill have u know ima globalelite and i played at numerous lans",
 				"i got over 300 confirmed kills on my stattrak nd im trained in shoulder peeking",
@@ -26,6 +26,12 @@
 				"i will shit fury all over u and u will drown in it.",
 				"you're fucking dead, kiddo."
 			]
-        }
-    ]
+		},
+		{
+			"alias": "nibba",
+			"values": [
+				"ni🅱️🅱️a"
+			]
+		}
+	]
 }

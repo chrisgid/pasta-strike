@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "y",
-    "binds" : [
-
+    "group": "emoji",
+    "subgroup": "y",
+    "binds": [
+        {
+            "alias" : "yoda",
+            "values" : [
+                "<(-_-)>"
+            ]
+        }
     ]
 }

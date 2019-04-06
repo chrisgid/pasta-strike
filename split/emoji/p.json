@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "p",
-    "binds" : [
-
+    "group": "emoji",
+    "subgroup": "p",
+    "binds": [
+        {
+            "alias" : "pig",
+            "values" : [
+                "(ˆ(oo)ˆ)"
+            ]
+        }
     ]
 }

@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "r",
-    "binds" : [
-
+    "group": "emoji",
+    "subgroup": "r",
+    "binds": [
+        {
+            "alias" : "running",
+            "values" : [
+                "ε=ε=ε=┌(;*´Д`)ﾉ"
+            ]
+        }
     ]
 }

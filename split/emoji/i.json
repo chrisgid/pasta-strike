@@ -1,7 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "i",
-    "binds" : [
-	
+    "group": "emoji",
+    "subgroup": "i",
+    "binds": [
+        {
+            "alias" : "innocent",
+            "values" : [
+                "ʘ‿ʘ"
+            ]
+        }
     ]
 }

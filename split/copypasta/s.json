@@ -1,32 +1,32 @@
 {
-    "group" : "copypasta",
-    "subgroup" : "s",
-    "binds" : [
-        {
-			"alias" : "scooby",
-			"values" : [
+	"group": "copypasta",
+	"subgroup": "s",
+	"binds": [
+		{
+			"alias": "scooby",
+			"values": [
 				"\"ruoh rhouh shaggy\" shut the fuck up you reatarded dog. how can you evne speak ur just a dog.",
 				"if your so scared be a normal dog not a adventure. gpd you are so stupdi."
 			]
 		},
-		        {
-			"alias" : "semphis",
-			"values" : [
+		{
+			"alias": "semphis",
+			"values": [
 				"I think its hilarious u kids talking about semphis. u wouldnt say this stuff to him at lan, hes jacked.",
 				"not only that but he wears the freshest clothes, eats at the chillest restaurants and hangs out with the hottest dudes.",
 				"yall are pathetic lol"
 			]
 		},
-		        {
-			"alias" : "sodium",
-			"values" : [
+		{
+			"alias": "sodium",
+			"values": [
 				"Sodium, atomic number 11, was first isolated by Humphry Davy in 1807.",
 				"A chemical component of salt, he named it Na in honor of the saltiest region on earth, North America"
 			]
 		},
-		        {
-			"alias" : "sun",
-			"values" : [
+		{
+			"alias": "sun",
+			"values": [
 				"I sexually identify as the sun. Ever since I was a boy I dreamed of slamming hydrogen",
 				"isotopes into each other to make helium & light and send it throught the galaxy.",
 				"People say to me that a person being a star is Impossible and I’m fucking retarded but I don’t care, I’m beautiful.",
@@ -35,5 +35,5 @@
 				"If you can’t accept me you’re a fusionphobe and need to check your astral privilege. Thank you for being so understanding."
 			]
 		}
-    ]
+	]
 }

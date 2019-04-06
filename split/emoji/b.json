@@ -1,18 +1,24 @@
 {
-    "group" : "emoji",
-    "subgroup" : "b",
-    "binds" : [
-		{
-			"alias" : "bear",
-			"values" : [
-				"ʕ•ᴥ•ʔ"
-			]
-		},
-		{
-			"alias" : "bearsquint",
-			"values" : [
-				"ʕᵔᴥᵔʔ"
-			]
-		}
+    "group": "emoji",
+    "subgroup": "b",
+    "binds": [
+        {
+            "alias" : "b",
+            "values" : [
+                "🅱️"
+            ]
+        },
+        {
+            "alias": "bear",
+            "values": [
+                "ʕ•ᴥ•ʔ"
+            ]
+        },
+        {
+            "alias": "bearsquint",
+            "values": [
+                "ʕᵔᴥᵔʔ"
+            ]
+        }
     ]
 }

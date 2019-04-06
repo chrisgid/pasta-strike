@@ -1,7 +1,5 @@
 {
-    "group" : "copypasta",
-    "subgroup" : "y",
-    "binds" : [
-
-    ]
+    "group": "copypasta",
+    "subgroup": "y",
+    "binds": []
 }

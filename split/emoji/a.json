@@ -1,12 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "a",
-    "binds" : [
+    "group": "emoji",
+    "subgroup": "a",
+    "binds": [
         {
-			"alias" : "ameno",
-			"values" : [
-				"༼ つ ◕_◕ ༽つ"
-			]
-		}
+            "alias": "ameno",
+            "values": [
+                "༼ つ ◕_◕ ༽つ"
+            ]
+        }
     ]
 }

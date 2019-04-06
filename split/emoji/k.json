@@ -1,12 +1,12 @@
 {
-    "group" : "emoji",
-    "subgroup" : "k",
-    "binds" : [
-		{
-			"alias" : "kirby",
-			"values" : [
-				"⊂(◉‿◉)つ"
-			]
-		}
+    "group": "emoji",
+    "subgroup": "k",
+    "binds": [
+        {
+            "alias": "kirby",
+            "values": [
+                "⊂(◉‿◉)つ"
+            ]
+        }
     ]
 }

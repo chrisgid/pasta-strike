@@ -1,11 +1,23 @@
 {
-    "group" : "emoji",
-    "subgroup" : "h",
-    "binds" : [
+    "group": "emoji",
+    "subgroup": "h",
+    "binds": [
         {
-            "alias" : "happydance",
-            "values" : [
+            "alias": "happydance",
+            "values": [
                 "♪┏(・o･)┛♪┗ ( ･o･) ┓♪┏ ( ･o･) ┛♪┗ (･o･ ) ┓♪┏(･o･)┛♪"
+            ]
+        },
+        {
+            "alias": "happygary",
+            "values": [
+                "ᕕ( ᐛ )ᕗ"
+            ]
+        },
+        {
+            "alias": "hearteyes",
+            "values": [
+                "♥‿♥"
             ]
         }
     ]

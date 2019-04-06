@@ -1,48 +1,48 @@
 {
-    "group" : "emoji",
-    "subgroup" : "l",
-    "binds" : [
-		{
-			"alias" : "lenny",
-			"values" : [
-				"( ͡° ͜ʖ ͡°)"
-			]
-		},
-		{
-			"alias" : "lennyangry",
-			"values" : [
-				"( ͠° ͟ʖ ͡°)"
-			]
-		},
-		{
-			"alias" : "lennyears",
-			"values" : [
-				"ʕ ͡° ͜ʖ ͡°ʔ"
-			]
-		},
-		{
-			"alias" : "lennygang",
-			"values" : [
-				"( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡° ) ͜ʖ ͡°) ͡°)"
-			]
-		},
-		{
-			"alias" : "lennypeep",
-			"values" : [
-				"┴┬┴┤( ͡° ͜ʖ├┬┴┬"
-			]
-		},
-		{
-			"alias" : "lennywatm8",
-			"values" : [
-				"(ง ͠° ͟ل͜ ͡°)ง"
-			]
-		},
-		{
-			"alias" : "lennywink",
-			"values" : [
-				"( ͡~ ͜ʖ ͡°)"
-			]
-		}
+    "group": "emoji",
+    "subgroup": "l",
+    "binds": [
+        {
+            "alias": "lenny",
+            "values": [
+                "( ͡° ͜ʖ ͡°)"
+            ]
+        },
+        {
+            "alias": "lennyangry",
+            "values": [
+                "( ͠° ͟ʖ ͡°)"
+            ]
+        },
+        {
+            "alias": "lennyears",
+            "values": [
+                "ʕ ͡° ͜ʖ ͡°ʔ"
+            ]
+        },
+        {
+            "alias": "lennygang",
+            "values": [
+                "( ͡°( ͡° ͜ʖ( ͡° ͜ʖ ͡° ) ͜ʖ ͡°) ͡°)"
+            ]
+        },
+        {
+            "alias": "lennypeep",
+            "values": [
+                "┴┬┴┤( ͡° ͜ʖ├┬┴┬"
+            ]
+        },
+        {
+            "alias": "lennywatm8",
+            "values": [
+                "(ง ͠° ͟ل͜ ͡°)ง"
+            ]
+        },
+        {
+            "alias": "lennywink",
+            "values": [
+                "( ͡~ ͜ʖ ͡°)"
+            ]
+        }
     ]
 }
