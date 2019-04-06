@@ -1,0 +1,12 @@
+{
+    "group" : "emoji",
+    "subgroup" : "s",
+    "binds" : [
+        {
+            "alias" : "shrug",
+            "values" : [
+                "¯\\_(ツ)_/¯"
+            ]
+        }
+    ]
+}

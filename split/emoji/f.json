@@ -1,0 +1,18 @@
+{
+    "group" : "emoji",
+    "subgroup" : "f",
+    "binds" : [
+		{
+			"alias" : "face",
+			"values" : [
+				"●▂▂●"
+			]
+		},
+		{
+			"alias" : "facetalk",
+			"values" : [
+				".__. ●▂▂● don't talk to me or my son ever again"
+			]
+		}
+    ]
+}
