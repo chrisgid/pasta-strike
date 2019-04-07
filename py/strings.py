@@ -1,6 +1,6 @@
 PASTA_STRIKE_CFG = 'pasta-strike.cfg'
 AUTOEXEC_CFG = 'autoexec.cfg'
-SPLIT = 'split'
+PASTADIR = 'json'
 
 ALIAS = 'alias "/'
 SAY = '" "say '

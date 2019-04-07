@@ -1,0 +1,30 @@
+{
+    "group": "emoji",
+    "subgroup": "t",
+    "pastas": [
+        {
+            "alias" : "tableflip",
+            "values" : [
+                "(╯°□°）╯︵ ┻━┻"
+            ]
+        },
+        {
+            "alias" : "tableflipdouble",
+            "values" : [
+                "┻━┻ ︵ヽ(`Д´)ﾉ︵﻿ ┻━┻"
+            ]
+        },
+        {
+            "alias" : "tableunflip",
+            "values" : [
+                "┬─┬﻿ ノ( ゜-゜ノ)"
+            ]
+        },
+        {
+            "alias" : "tripping",
+            "values" : [
+                "q(❂‿❂)p"
+            ]
+        }
+    ]
+}

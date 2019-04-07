@@ -1,10 +1,8 @@
-from py import generate
-from py import strings
-from py import JsonFile
+from py import bindgenerator, strings, pastas, PastaFile
 from os import path, walk
 from pathlib import Path as PathLibPath
 
-''' 
+'''
 This script combines all copypastas
 in /split to pasta-strike.cfg
 '''
@@ -12,7 +10,7 @@ in /split to pasta-strike.cfg
 if __name__ == '__main__':
 
     currentpath = path.dirname(__file__)
-    splitpath = path.join(currentpath, strings.SPLIT)
+    splitpath = path.join(currentpath, strings.PASTADIR)
     outputpath = path.join(currentpath, strings.PASTA_STRIKE_CFG)
 
     splitfiles = []
@@ -27,33 +25,23 @@ if __name__ == '__main__':
 
             if (pathcheck.suffix == strings.DOTJSON):
 
-                jsonfile = JsonFile(filepath)
-                splitfiles.append(jsonfile)
+                pastafile = PastaFile(filepath)
+                splitfiles.append(pastafile)
 
-
-    ## Write to config
+    # Write to config
     with open(outputpath, 'w+', encoding=strings.UTF_8) as config:
 
         filecount = 1
 
         for file in splitfiles:
 
-            print(strings.WRITING.format(filecount, len(files)))
+            print(strings.WRITING.format(filecount, len(splitfiles)))
             filecount += 1
 
-            dictionary = file.get_data()
+            pastacollection = file.get_pastacollection()
 
-            for key, value in dictionary.items():
+            binds = bindgenerator.generate_binds_str(pastacollection)
 
-                if isinstance(value, list):
-
-                    keyvals = generate.keyvals(key, value)
-                    aliases = generate.aliases(keyvals)
-                    config.write(aliases)
-
-                elif isinstance(value, str):
-
-                    alias = generate.alias(key, value)
-                    config.write(alias)
+            config.write(binds)
 
         print(strings.DONE)

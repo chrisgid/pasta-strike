@@ -1,0 +1,18 @@
+{
+    "group": "emoji",
+    "subgroup": "d",
+    "pastas": [
+        {
+            "alias": "disapproval",
+            "values": [
+                "ಠ_ಠ"
+            ]
+        },
+        {
+            "alias": "disapprovalsmile",
+            "values": [
+                "ಠ‿ಠ"
+            ]
+        }
+    ]
+}

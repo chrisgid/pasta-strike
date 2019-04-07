@@ -37,4 +37,4 @@ You can check how many bytes there are in a string of characters here: https://m
 
 However, most emojis do not appear in chat so it is recommended to remove them anyway, but here is a list of the ones that do work:
 
-ღ • ⁂ € ™ ↑ → ↓ ⇝ √ ∞ ░ ▲ ▶ ◀ ● ☀ ☁ ☂ ☃ ☄ ★ ☆ ☉ ☐ ☑ ☎ ☚ ☛ ☜ ☝ ☞ ☟ ☠ ☢ ☣ ☪ ☮ ☯ ☸ ☹ ☺ ☻ ☼ ☽ ☾ ♔ ♕ ♖ ♗ ♘ ♚ ♛ ♜ ♝ ♞ ♟ ♡ ♨ ♩ ♪ ♫ ♬ ✈ ✉ ✍ ✎ ✓ ✔ ✘ ✚ ✝ ✞ ✟ ✠ ✡ ✦ ✧ ✩ ✪ ✮ ✯ ✹ ✿ ❀ ❁ ❂ ❄ ❅ ❆ ❝ ❞ ❣ ❤ ❥ ❦ ❧ ➤ ツ ㋡ 卍 웃 Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ
+ღ • ⁂ € ™ ↑ → ↓ ⇝ √ ∞ ░ ▲ ▶ ◀ ● ☀ ☁ ☂ ☃ ☄ ★ ☆ ☉ ☐ ☑ ☎ ☚ ☛ ☜ ☝ ☞ ☟ ☠ ☢ ☣ ☪ ☮ ☯ ☸ ☹ ☺ ☻ ☼ ☽ ☾ ♔ ♕ ♖ ♗ ♘ ♚ ♛ ♜ ♝ ♞ ♟ ♡ ♨ ♩ ♪ ♫ ♬ ✈ ✉ ✍ ✎ ✓ ✔ ✅ ✘ ✚ ✝ ✞ ✟ ✠ ✡ ✦ ✧ ✩ ✪ ✮ ✯ ✹ ✿ ❀ ❁ ❂ ❄ ❅ ❆ ❝ ❞ ❣ ❤ ❥ ❦ ❧ ➤ ツ ㋡ 卍 웃 Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ

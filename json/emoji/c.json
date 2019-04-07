@@ -1,0 +1,18 @@
+{
+    "group": "emoji",
+    "subgroup": "c",
+    "pastas": [
+        {
+            "alias": "cheerfulcat",
+            "values": [
+                "(≧∇≦)/"
+            ]
+        },
+        {
+            "alias": "confused",
+            "values": [
+                "(⊙.☉)7"
+            ]
+        }
+    ]
+}

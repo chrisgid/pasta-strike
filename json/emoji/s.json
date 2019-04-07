@@ -1,0 +1,42 @@
+{
+    "group": "emoji",
+    "subgroup": "s",
+    "pastas": [
+        {
+            "alias": "seal",
+            "values": [
+                "(ᵔᴥᵔ)"
+            ]
+        },
+        {
+            "alias": "shocked",
+            "values": [
+                "°Д°"
+            ]
+        },
+        {
+            "alias": "shrug",
+            "values": [
+                "¯\\_(ツ)_/¯"
+            ]
+        },
+        {
+            "alias": "sloth",
+            "values": [
+                "(⊙ω⊙)"
+            ]
+        },
+        {
+            "alias": "squid",
+            "values": [
+                "<コ:彡"
+            ]
+        },
+        {
+            "alias": "starstruck",
+            "values": [
+                "*⁂((✪⥎✪))⁂*"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "group": "emoji",
+    "subgroup": "y",
+    "pastas": [
+        {
+            "alias" : "yoda",
+            "values" : [
+                "<(-_-)>"
+            ]
+        }
+    ]
+}
