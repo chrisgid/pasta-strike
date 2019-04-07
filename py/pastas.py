@@ -1,4 +1,5 @@
-from .strings import DOTJSON, UTF_8
+from .jsonproperties import *
+from .strings import ENCODING
 from pathlib import Path
 import json
 
@@ -11,20 +12,20 @@ class PastaFile(object):
     def get_pastacollection(self):
         pastacollection = None
 
-        with self.filepath.open(mode='r', encoding=UTF_8) as file:
+        with self.filepath.open(mode='r', encoding=ENCODING) as file:
             pastacollection = json.loads(file.read(), object_hook=self._json_object_hook)
 
         return pastacollection
 
     def _json_object_hook(self, obj):
-        if 'group' in obj:
-            group = obj['group']
-            subgroup = obj['subgroup']
+        if GROUP_PROPERTY in obj:
+            group = obj[GROUP_PROPERTY]
+            subgroup = obj[SUBGROUP_PROPERTY]
 
-            return PastaCollection(group, subgroup, obj['pastas'])
+            return PastaCollection(group, subgroup, obj[PASTAS_PROPERTY])
 
-        if 'alias' in obj:
-            return Pasta(obj['alias'], obj['values'])
+        if ALIAS_PROPERTY in obj:
+            return Pasta(obj[ALIAS_PROPERTY], obj[VALUES_PROPERTY])
 
 
 class PastaCollection(object):

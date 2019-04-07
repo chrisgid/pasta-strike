@@ -29,7 +29,7 @@ if __name__ == '__main__':
                 splitfiles.append(pastafile)
 
     # Write to config
-    with open(outputpath, 'w+', encoding=strings.UTF_8) as config:
+    with open(outputpath, 'w+', encoding=strings.ENCODING) as config:
 
         filecount = 1
 

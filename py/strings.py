@@ -6,7 +6,7 @@ ALIAS = 'alias "/'
 SAY = '" "say '
 END = '";\n'
 
-UTF_8 = 'UTF-8'
+ENCODING = 'UTF-8'
 DOTJSON = '.json'
 
 WRITING = 'Writing file {} of {} to config'
