@@ -1,5 +1,12 @@
 {
     "group": "copypasta",
     "subgroup": "y",
-    "pastas": []
+    "pastas": [
+        {
+            "alias": "younow",
+            "values": [
+                "you now me on smoke nice"
+            ]
+        }
+    ]
 }

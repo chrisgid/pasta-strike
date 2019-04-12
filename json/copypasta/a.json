@@ -1,5 +1,12 @@
 {
     "group": "copypasta",
     "subgroup": "a",
-    "pastas": []
+    "pastas": [
+        {
+            "alias": "azk",
+            "values": [
+                "azk he is the north american player but the titan he is the french stars"
+            ]
+        }
+    ]
 }

@@ -1,5 +1,13 @@
 {
     "group": "copypasta",
     "subgroup": "m",
-    "pastas": []
+    "pastas": [
+        {
+            "alias": "mainxm",
+            "values": [
+                "I main the XM1014, 2 flashes, a incenderary and a smoke. Both sides.", 
+                "This information is just to give you guys a general understanding of my experience."
+            ]
+        }
+    ]
 }
