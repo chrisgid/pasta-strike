@@ -15,7 +15,7 @@ if __name__ == '__main__':
 
     splitfiles = []
 
-    # Find all .json files in /split
+    # Find all .json files in /pastas
     for subdir, dirs, files in walk(splitpath):
 
         for filename in files:
