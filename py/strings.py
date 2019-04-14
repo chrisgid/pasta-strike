@@ -11,3 +11,5 @@ DOTJSON = '.json'
 
 WRITING = 'Writing file {} of {} to config'
 DONE = 'Done!'
+
+KEY_MIN_LEN = 3
