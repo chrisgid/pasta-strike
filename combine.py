@@ -1,47 +1,17 @@
-from py import bindgenerator, strings, pastas, PastaFile
-from os import path, walk
-from pathlib import Path as PathLibPath
+from py import strings, Combiner
+from os import path
 
-'''
-This script combines all copypastas
-in /split to pasta-strike.cfg
-'''
+'''Combines all copypastas in /pastas to pasta-strike.cfg'''
 
-if __name__ == '__main__':
 
+def main():
     currentpath = path.dirname(__file__)
-    splitpath = path.join(currentpath, strings.PASTADIR)
+    pastapath = path.join(currentpath, strings.PASTADIR)
     outputpath = path.join(currentpath, strings.PASTA_STRIKE_CFG)
 
-    splitfiles = []
+    combiner = Combiner(pastapath)
+    combiner.combine(outputpath)
 
-    # Find all .json files in /split
-    for subdir, dirs, files in walk(splitpath):
 
-        for filename in files:
-
-            filepath = path.join(subdir, filename)
-            pathcheck = PathLibPath(filepath)
-
-            if (pathcheck.suffix == strings.DOTJSON):
-
-                pastafile = PastaFile(filepath)
-                splitfiles.append(pastafile)
-
-    # Write to config
-    with open(outputpath, 'w+', encoding=strings.ENCODING) as config:
-
-        filecount = 1
-
-        for file in splitfiles:
-
-            print(strings.WRITING.format(filecount, len(splitfiles)))
-            filecount += 1
-
-            pastacollection = file.get_pastacollection()
-
-            binds = bindgenerator.generate_binds_str(pastacollection)
-
-            config.write(binds)
-
-        print(strings.DONE)
+if __name__ == '__main__':
+    main()

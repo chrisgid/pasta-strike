@@ -1,6 +1,6 @@
 PASTA_STRIKE_CFG = 'pasta-strike.cfg'
 AUTOEXEC_CFG = 'autoexec.cfg'
-PASTADIR = 'json'
+PASTADIR = 'pastas'
 
 ALIAS = 'alias "/'
 SAY = '" "say '
@@ -11,3 +11,5 @@ DOTJSON = '.json'
 
 WRITING = 'Writing file {} of {} to config'
 DONE = 'Done!'
+
+KEY_MIN_LEN = 3
