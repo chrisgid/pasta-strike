@@ -4,11 +4,11 @@ All of your favourite copypastas and text emojis in a CS:GO config
 
 ## Installing Pastas
 
-1. [Download **pasta-strike.cfg**](pasta-cfg) and add it to the cfg folder inside the install directory of CS:GO, usually located here:
+1. [Download **pasta-strike.cfg**][pasta-cfg] and add it to the cfg folder inside the install directory of CS:GO, usually located here:
 
    `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
 
-2. [Download **autoexec.cfg**](auto-cfg) and add it to the same directory
+2. [Download **autoexec.cfg**][auto-cfg] and add it to the same directory
 
     **OR**
 
